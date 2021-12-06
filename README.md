@@ -11,3 +11,4 @@ Case Study in Intermediate Data Analytics, Sept 2021 - Sep 2021
 <li>Bryan D. Lacorte</li>
 <li>Ruel B. Hamor</li>
 <li>Grace Langusta</li>
+<li>Christian M. De Los Santos</li>
